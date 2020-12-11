@@ -1,2 +1,2 @@
 # FreestandingCxx
-c++
+freestanding c++
